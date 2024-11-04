@@ -143,7 +143,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		},
 		{
 			question:
-				"the diversity that exists among different geographies is",
+				"\"the diversity that exists among different geographies\" are",
 			options: [
 				"alpha (α) biodiversity",
 				"beta (β) biodiversity",
@@ -165,7 +165,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		},
 		{
 			question:
-				"groups of actually or potentially interbreeding natural populations, which are reproductively isolated from other such groups is a definition of",
+				"\"groups of actually or potentially interbreeding natural populations, which are reproductively isolated from other such species\" is a definition of",
 			options: [
 				"cells",
 				"species",

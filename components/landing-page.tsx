@@ -40,7 +40,7 @@ const AppTitle: FC = function () {
 				can make it even better. If you have ideas or improvements,
 				feel free to drop a PR{" "}
 				<a
-					href="https://github.com/therealdhrxv/nptel/"
+					href="https://github.com/kroy01/nextjs-wildlifeEcology-quiz-practice-website"
 					target="_blank"
 					className="text-blue-500"
 				>
