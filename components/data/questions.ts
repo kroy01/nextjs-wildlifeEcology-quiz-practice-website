@@ -175,7 +175,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 			answer: "species",
 		},
 		{
-			question: "the diversity that exists within an ecosystem is",
+			question: "\"the diversity that exists within an ecosystem\" is",
 			options: [
 				"alpha (α) biodiversity",
 				"beta (β) biodiversity",
@@ -237,10 +237,10 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 			options: [
 				"behaviourism",
 				"ecology",
-				"ecology",
+				"ethology",
 				"prey-predator dynamics",
 			],
-			answer: "ecology",
+			answer: "ethology",
 		},
 		{
 			question: "The interaction between exotic shrubs and trees through the action of seed predators is an example of",
@@ -253,7 +253,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 			answer: "apparent competition",
 		},
 		{
-			question: "Harmonious interactions occur where",
+			question: "harmonious competition occur where",
 			options: [
 				"at least one participant is benefited",
 				"at least one participant is unharmed",
@@ -290,7 +290,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 				"allo grooming",
 				"foraging",
 			],
-			answer: "foraging",
+			answer: "allo grooming",
 		},
 		{
 			question: "An inventory of behaviours exhibited by an animal during a behaviour exercise is called",
@@ -419,7 +419,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		},
 		{
 			question:
-				"“TThe logistic growth equation, when plotted, appears",
+				"“The logistic growth equation, when plotted, appears",
 			options: [
 				"I shaped",
 				"J shaped",
@@ -483,7 +483,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		{
 			question:
 				"Cover board surveys are typically used for sampling",
-			options: ["herpetofauna", "fishes", "large mammals(like akshay's mom)", "carnivores"],
+			options: ["herpetofauna", "fishes", "large mammals", "carnivores"],
 			answer: "herpetofauna",
 		},
 	],
@@ -617,7 +617,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		},
 		{
 			question:
-				"The rate of any biological process is limited by that factor in least amount relative to requirement, so there is a single limiting factor. This is the statement for",
+				"\"The rate of any biological process is limited by that factor in least amount relative to requirement, so there is a single limiting factor\". This is the statement for",
 			options: [
 				"Liebig’s law of the minimum",
 				"Liebig’s law of the maximum",
@@ -660,14 +660,14 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		},
 		{
 			question:
-				"Scarcity of food is a",
+				"\"quick movement over large distances, often across unsuitable terrain\" is a definition of",
 			options: [
-				"chemical factor",
-				"demographic factor",
-				"push factor",
-				"pull factor",
+				"diffusion",
+				"secular dispersal",
+				"jump dispersal",
+				"drifting",
 			],
-			answer: "push factor",
+			answer: "jump dispersal",
 		},
 		{
 			question:
@@ -681,14 +681,14 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 			answer: "push factor",
 		},
 		{
-			question: "The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance. This is the statement for",
+			question: "\"The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance\". This is the statement for",
 			options: [
 				"Liebig’s law of the minimum",
 				"Liebig’s law of the maximum",
 				"Shelford’s law of tolerance",
 				"Shelford’s law of intolerance",
 			],
-			answer: "any stage of life",
+			answer: "Shelford’s law of tolerance",
 		},
 		{
 			question: "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
@@ -869,8 +869,8 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 				"Which of these is not a pillar of sustainability?",
 			options: ["environmental sustainability",
 				"economic sustainability",
-				"agricultural sustainability",
-				"social sustainability"],
+				"trans-boundary sustainability",
+				"agricultural sustainability"],
 			answer: "trans-boundary sustainability",
 		},
 		{
@@ -903,7 +903,7 @@ export const questionsByWeek: { [week: string]: Question[] } = {
 		},
 		{
 			question:
-				"Any changes in natural or human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead is a definition for",
+				"\"Any changes in natural or human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead\" is a definition for",
 			options: [
 				"adaptation",
 				"mitigation",
